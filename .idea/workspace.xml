@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e97815e-7e12-45e2-9a8e-d79ac4def06b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="miaoshauseSSL@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="runMavenInBackground" value="false" />
+  </component>
+  <component name="ProjectId" id="1aYdurYvvwaVyVbKYatnHzYEsO8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\javaprogram\miaosha\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyy.App" />
+      <module name="spike" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spike" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyy.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.mybatis-generator" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e97815e-7e12-45e2-9a8e-d79ac4def06b" name="Default Changelist" comment="" />
+      <created>1586916686170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586916686170</updated>
+      <workItem from="1586916692633" duration="29978000" />
+      <workItem from="1586999789550" duration="28912000" />
+      <workItem from="1587085406238" duration="17156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="356" key="#Notifications" timestamp="1587049919211">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="660" y="356" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1587049919211" />
+    <state x="690" y="280" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586959429393">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="280" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586959429393" />
+    <state x="587" y="319" width="816" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586938677085">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="587" y="319" width="816" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586938677085" />
+    <state x="103" y="418" key="#com.intellij.ide.util.MemberChooser" timestamp="1587108159340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="103" y="418" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587108159340" />
+    <state x="796" y="306" key="FileChooserDialogImpl" timestamp="1586917030247">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="796" y="306" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586917030247" />
+    <state width="1340" height="175" key="GridCell.Tab.0.bottom" timestamp="1587109943759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587109943759" />
+    <state width="1340" height="175" key="GridCell.Tab.0.center" timestamp="1587109943759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587109943759" />
+    <state width="1340" height="175" key="GridCell.Tab.0.left" timestamp="1587109943759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587109943759" />
+    <state width="1340" height="175" key="GridCell.Tab.0.right" timestamp="1587109943759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587109943759" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1587053830111">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587053830111" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1587053830111">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587053830111" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1587053830110">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587053830110" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1587053830111">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587053830111" />
+    <state x="580" y="305" key="SettingsEditor" timestamp="1586942639106">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="580" y="305" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586942639106" />
+    <state x="511" y="261" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587026198317">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="511" y="261" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1587026198317" />
+    <state x="1116" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1587108293994">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1116" y="371" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587108293994" />
+  </component>
+</project>
